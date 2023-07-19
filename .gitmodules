@@ -1,0 +1,3 @@
+[submodule "third_party/Botok"]
+	path = third_party/Botok
+	url = https://github.com/OpenPecha/Botok.git
