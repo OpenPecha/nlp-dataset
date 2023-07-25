@@ -28,4 +28,6 @@ Representative corpus for Tibetan Language
 
 ## From the sentence to word components
 - Clauses བརྗོད་པ།
-  - groups of words that  
+  - groups of words that
+- Words ཚིག
+- Word Components ཚིག་གི་ཆ་ཤས།
