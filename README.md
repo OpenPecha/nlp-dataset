@@ -1,19 +1,31 @@
 # bo-corpus
 Representative corpus for Tibetan Language
 
-# 1 sentence definition
+# Background Presentation
+## communication units: From the message to the sentence
 - language enables communication between people
 - communication:
   - someone (1) wants to communicate something (2) to someone (3)
   - the message is everything the speaker wants the listener to know at a given moment. (all of this applies to writer and reader)
-- The message
+- Message སྐད་ཆ་ཞིག
   - can be as short as "Yes".
-  - can be as complex as a whole book.
+  - can be as complex as a whole speech.
+  - ex:
   - the message is finished when the speaker is satisfied with what he says and stops speaking.
-- The message can be made of sections and any number of subsections. Each section or subsection is made of paragraphs.
-- A paragraph
+- Paragraphs སྒྲུབ་ཚོགས།
+  - contains one part of the message. 
   - starts when the speaker starts to speak
-  - ends when the speaker makes a pause of between 1 and 5 seconds before continuing to speak.
-  - often ends 
-  - can be short or long
-  - 
+  - ends when the speaker makes a pause of between 1 and 5 seconds before continuing with the next paragraph.
+  - often ends when the speaker checks whether the listener understood what he said so far.
+  - ex:
+  - can be as short as "isn't it?"
+  - can be many sentences long.
+- A sentence ཚིག་སྒྲུབ།
+  - contains a complete idea, describes one action and contains everything needed to understand how the action happened.
+  - ends when the speaker makes a pause of 1 second or less.
+  - Is usually structured around the subject, object and verb + additional details about the action.
+  - ex: 
+
+## From the sentence to word components
+- Clauses བརྗོད་པ།
+  - groups of words that  
