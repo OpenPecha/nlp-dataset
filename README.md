@@ -7,7 +7,7 @@ Representative corpus for Tibetan Language
 - communication:
   - someone (1) wants to communicate something (2) to someone (3)
   - the message is everything the speaker wants the listener to know at a given moment. (all of this applies to writer and reader)
-- Message སྐད་ཆ་ཞིག
+- Message སྐད་brda
   - can be as short as "Yes".
   - can be as complex as a whole speech.
   - ex:
@@ -28,6 +28,12 @@ Representative corpus for Tibetan Language
 
 ## From the sentence to word components
 - Clauses བརྗོད་པ།
-  - groups of words that
+  - groups of words that describe the main components of the action described, like subject, object, when, how, etc.
+  - usually end with a case particle that is asked for by the verb. 
+  - 2 types of clauses
+    - required clauses are asked for by the verb (subject, object, ...)
+    - optional clauses give extra information the speaker wants to convey (when, how, ...)
+  - each clause ends with a short pause.
+  - 
 - Words ཚིག
 - Word Components ཚིག་གི་ཆ་ཤས།
