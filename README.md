@@ -65,4 +65,6 @@ Representative corpus for Tibetan Language
       - to turn a sentence into a noun པ་ བ་ 
 - 7 Word Components ཚིག་གི་ཆ་ཤས།
   - root
+    - part that is the core of a word
   - affixes
+    - part that modifies the meaning of the root, thus constructing the desired meaning
