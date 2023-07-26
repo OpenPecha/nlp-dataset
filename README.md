@@ -7,7 +7,7 @@ Representative corpus for Tibetan Language
 - communication:
   - someone (1) wants to communicate something (2) to someone (3)
 - 1 Message སྐད་བརྡ།
-  - def. everything the someone makes someone else know at a given moment. (all of this applies to writer and reader)
+  - everything the someone makes someone else know at a given moment.
   - can be as short as "Yes".
   - can be as complex as a whole speech.
   - ex:
@@ -21,7 +21,8 @@ Representative corpus for Tibetan Language
   - can be as short as "isn't it?"
   - can be many sentences long.
 - 3 A sentence ཚིག་སྒྲུབ།
-  - contains a complete idea, describes one action and contains everything needed to understand how the action happened.
+  - expresses a complete idea, like an action, and contains all the elements needed to understand that idea.
+  - the speaker is satisfied of having expressed it. the listener has the complete idea expressed by the speaker and does not need to ask questions like "but who did it?", "where did he come?", etc.
   - ends when the speaker makes a pause of 1 second or less.
   - Is usually structured around the subject, object and verb + additional details about the action.
   - ex: 
@@ -45,14 +46,14 @@ Representative corpus for Tibetan Language
   - the smallest independent unit of meaning within a sentence of a given message.
   - types of words
     - full words
-      - def. within a given clause, the smallest independant unit of meaning that either denotes an action, an object or a property.
+      - def. within a sentence of a given message, the smallest independent unit of meaning that either denotes an action, an object or a property.
       - types
         - nouns
         - adjectives
         - adverbs
         - interjections
     - grammatical words,
-      - def. at any given level, the smallest independent unit of meaning that serves to create relations between units of language. like ciment and screws link the components of houses.
+      - def. the smallest independent unit of meaning that serves to create relations between units of language. like ciment and screws link the components of houses.
       - to link messages ཨོའོ་ ཡཱ་ དེ ཡང་ ཡཱ་དཱ་oooh, ya, de yang, ya da,
       - to link paragraphs ཨོ་ཡཱ་་་་་་་  དེ་ནས་ཡཱ་ h ya, de ne ya, ...
       - to link sentences དེ་ནས་ ཨེ་ནས་  de ne, a ni,
@@ -64,4 +65,4 @@ Representative corpus for Tibetan Language
       - to turn a sentence into a noun པ་ བ་ 
 - 7 Word Components ཚིག་གི་ཆ་ཤས།
   - root
-  - additions
+  - affixes
