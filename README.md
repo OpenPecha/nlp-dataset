@@ -33,7 +33,13 @@ Representative corpus for Tibetan Language
   - 2 types of clauses
     - required clauses are asked for by the verb (subject, object, ...)
     - optional clauses give extra information the speaker wants to convey (when, how, ...)
-  - each clause ends with a short pause.
-  - 
+  - each clause ends with a short oral pause.
+- word groups 
+  - a group of words within which the head holds the main meaning, the others words give more detail about the head.
+  - linking particles allow groups of words to be contained inside other groups of words
+  - different types of word groups
+    - nominal groups
+    - adjectival groups
+    - adverbial groups
 - Words ཚིག
 - Word Components ཚིག་གི་ཆ་ཤས།
