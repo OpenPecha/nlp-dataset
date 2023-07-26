@@ -42,4 +42,5 @@ Representative corpus for Tibetan Language
     - adjectival groups
     - adverbial groups
 - Words ཚིག
+  - 
 - Word Components ཚིག་གི་ཆ་ཤས།
