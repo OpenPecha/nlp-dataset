@@ -68,7 +68,9 @@ Representative corpus for Tibetan Language
       - to link nouns and nominal groups དང་
       - to link a sentence to a noun > པའི བའི་
       - to link verbs པར་ བར་
-      - to turn a sentence into a noun པ་ བ་ 
+      - to turn a sentence into a noun པ་ བ་
+  - attention to idiomatic expressions
+    - 
 - 7 Word Components ཚིག་གི་ཆ་ཤས།
   - root
     - part that is the core of a word
