@@ -1,4 +1,4 @@
-# bo-corpus
+(# bo-corpus
 Representative corpus for Tibetan Language
 
 # Background Presentation
@@ -44,6 +44,12 @@ Representative corpus for Tibetan Language
     - adverbial group
 - 6 Words ཚིག
   - the smallest independent unit of meaning within a sentence of a given message.
+    - independent
+      - if you go below that limit, the intended meaning in the sentence is lost.
+      - སྟོང་པ་ཉིད་ 
+    - smallest
+      - you can not insert anything inside it without changing the meaning.
+        - བཀྲ་ཤིས་ཚེ་རིང་། སྔ་དྲོ་བདེ་ལེགས།
   - types of words
     - full words
       - def. within a sentence of a given message, the smallest independent unit of meaning that either denotes an action, an object or a property.
