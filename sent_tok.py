@@ -13,6 +13,12 @@ def plaintext_sent_par(units, sep="\n") -> str:
     out = []
     for u in units:
         unit = "".join([word.text for word in u['tokens']]).strip()
+        while out and unit and len(units) >= 2 and (unit[0] == " " or unit[0] == "།"):
+            out[-1] += unit[0]
+            if len(unit) >= 2:
+                unit = unit[1:]
+            else:
+                unit = ""
         out.append(unit)
     return sep.join(out)
 
@@ -20,7 +26,7 @@ def plaintext_sent_par(units, sep="\n") -> str:
 inpath = Path("input/")
 infiles = list(inpath.rglob("*.txt"))
 for f in infiles:
-    raw = f.read_text(encoding="utf-8")
+    raw = f.read_text(encoding="utf-8").replace(" ", " ").replace("​", " ").replace("། ། ", "། །")
 
     outpath = Path(  "output/sentences") / f.parts[-2]
     outpath.mkdir(exist_ok=True)
